@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">listView</string>
+    <string name="newList">New List</string>
+    <string name="listName">List Name</string>
 </resources>
